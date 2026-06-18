@@ -110,6 +110,17 @@ Match to this specific builder. Note: domain ignorance (building for a hobby/pro
 
 The build threshold was raised from 75 to 80 and the bands compressed because the previous version let merely-okay ideas read as "promising." An 80 now requires genuinely weak competition *and* a structural wedge, not a high score propped up by easy buildability and proven WTP.
 
+## Verdict classification (four buckets)
+
+After scoring, every candidate resolves to exactly one verdict:
+
+- **Build-ready** — Lane A score **≥80** with strong evidence. Proceed to the full plan.
+- **Research-only** — Lane A score **70–79**, *or* an execution-play candidate whose teardown leaves a material assumption unresolved. Validate the riskiest assumption before building.
+- **Execution-play candidate** — **Lane B** activated: Competition-weakness is **4–5** (fragmented field, no dominant loved incumbent), there are repeated severe user complaints, and all eight Lane B conditions hold (see kill-rules.md / SKILL.md). Routed to the mandatory **Execution Teardown**, whose verdict from scan/desk research can only be **research-only or killed** — never build-ready. It reaches build-ready only by passing the real-world promotion gate (SKILL.md §4c).
+- **Killed** — structural weakness, a dominant incumbent (Comp▼ ≤3), weak WTP, poor retention, no wedge, or no feasible 2–4 week MVP.
+
+**The gates, weights, caps, and 80 threshold above are unchanged by the execution-play lane.** An execution-play candidate is still scored normally; the score is simply *informational* for it, because the rubric's Differentiation cap deliberately undercounts execution edges. An execution-play candidate is **never** build-ready from the scan or desk teardown — at most research-only. The single path from a sub-80 Lane B idea to build-ready is the **execution-play promotion gate** (SKILL.md §4c): manual top-3 teardown + repeated complaints confirmed + 10–15 real user reactions + a clear willingness-to-pay signal + the narrow workflow proven beatable in 2–4 weeks. All five, or it stays research-only. A Comp▼ ≤3 idea gate-kills and can never enter Lane B.
+
 ## Winner discipline
 
 If the top-scoring idea is **below 80**, the Winner section must say **"No winner"** outright. Never label a sub-80 idea a "winner" or "conditional winner." A sub-80 idea may be mentioned only as the **"closest miss — still a no,"** stating its point gap to 80 and the single criterion that capped it. The user can build anything; do not tempt him toward a flawed idea by dressing it up.

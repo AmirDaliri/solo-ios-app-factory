@@ -39,6 +39,29 @@ The saturated-category rule is not "never touch these categories" — it's "the 
 
 Privacy, local-first, lower price, and nicer design are good defaults but are **not** wedges — they're copyable in a sprint. If that's all you have, it does not survive. Restate it as a Rule 11 kill.
 
+## Execution-play exception (Lane B)
+
+Rule 11 kills copyable-wedge ideas in the **default lane**. There is one narrow exception. When a market is *not* empty but is **fragmented, mediocre, outdated, bloated, overpriced, or poorly executed* — no dominant loved incumbent, several weak players, and **repeated, severe user complaints** — an execution advantage on one narrow workflow can be a real reason to build. This is adjudicated by a hands-on **Execution Teardown** (see SKILL.md §4b), not by waiving Rule 11.
+
+This exception **never overrides the competition gate.** A dominant, loved, funded, or freshly-updated incumbent still kills the idea (Competition-weakness ≤3, Rule 11). Lane B is only reachable when Competition-weakness is **4–5** — a fragmented field with no clear leader.
+
+Lane B activates only when **all eight** hold (else the idea stays killed/weak in the default lane):
+1. Passes the instant kill rules.
+2. Competitors exist but **no dominant loved incumbent** (Comp▼ 4–5, never ≤3).
+3. Top competitors are **fragmented or weak** (no 4.5★+/large-rating leader).
+4. **Repeated, specific user complaints** across the top apps — not one-offs.
+5. The wedge is **not** vague "better UI."
+6. The wedge is a **specific execution advantage** (simpler workflow, local-first native iOS, faster capture, better offline, better Apple-ecosystem integration, better privacy posture, clearer pricing, fewer bloated features, sharper one-job focus).
+7. The MVP can **beat incumbents on one narrow workflow** in 2–4 weeks solo.
+8. The weakness is **verifiable by downloading and tearing apart the top 3**.
+
+Guardrail kills inside Lane B — apply without mercy, because the exception must not relicense saturated apps:
+- Only wedge is vague "cleaner UI" → **kill**.
+- Winning needs out-spending incumbents on marketing → **kill**.
+- The MVP can't clearly win **one** narrow workflow → **kill**.
+- Complaints aren't **repeated or severe** → **kill**.
+- User is a **domain tourist who can't reach the users** → **downgrade** (research-only at best, often kill).
+
 ## Soft flags (don't auto-kill, but lower the score)
 
 These don't end the idea, but they should drag the relevant rubric criterion down and be named explicitly:
